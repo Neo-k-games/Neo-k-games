@@ -14,14 +14,13 @@ I enjoy building games, experimenting with code, and learning new technologies.
 
 ## 👨‍💻 About Me
 
-- 🎮 Interested in **Game Development**
-- 🧩 Currently working with **Godot** and **Unity**
+- 🧩 Currently working with **Godot** only
 - 💻 Learning and improving my programming skills
 - 🐍 Working with **Python**
-- 🎨 Interested in **3D modelling, graphics and game assets**
+- 🎨 Interested in **3D modelling, vector art and game assets**
 - 🎵 Interested in **music production and sound design**
-- 🚂 Interested in creating realistic simulation games
-- 🌱 Always learning something new
+- 🚂 Interested in creating simulation & games
+- 🌱 Always learning & trying something new
 
 ---
 
@@ -103,23 +102,13 @@ Tools that I use:
 - Cascadeur
 - Reaper
 - LMMS
-  
-### 🚂 Simulation Projects
-
-I'm interested in building realistic simulation experiences with systems such as:
-
-- 🚆 Train simulation
-- ✈️ Flight simulation
-- 🎮 Vehicle controls
-- 🌍 3D environments
-- 🔊 Sound systems
-- 🤖 AI systems
 
 ### 🧪 Experimental Projects
 
-I also like experimenting with:
+I am like experimenting with:
 - GDscript 
 - Python
+- Android development with Godot
 - Tools and utilities
 - Game prototypes
 
@@ -137,13 +126,9 @@ I also like experimenting with:
 
 🎨 **3D Art**
 
-🎵 **Music Production**
+🎵 **Music & SFX Production**
 
-🎮 **Game Development**
-
-🚂 **Simulation**
-
-💻 **Programming**
+🎨 **Vector Art**
 
 🌍 **World Building**
 
