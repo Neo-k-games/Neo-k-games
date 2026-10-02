@@ -40,11 +40,13 @@ I enjoy building games, experimenting with code, and learning new technologies.
 <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
 </p>
 
-### 🎨 Graphics & Rendering
+### 🎨 Tools I use 
 
-<p>
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
-<img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white">
+<p> 
+<img src="https://www.reaper.fm/favicon.ico" alt="REAPER" width="40" height="40">
+<img src="https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg" height="40">
+<img src="https://cascadeur.com/favicon.ico" alt="Cascadeur" width="40" height="40">
+<img src="https://www.google.com/s2/favicons?domain=blender.org&sz=64" alt="Blender" width="40" height="40">
 </p>
 
 ### 🔧 Tools & Technologies
@@ -93,16 +95,15 @@ I enjoy building games, experimenting with code, and learning new technologies.
 
 ### 🎮 Game Development
 
-I'm working on game-development projects using:
+Tools that I use:
 
 - Godot
-- Unity
-- C#
 - GDScript
-- 3D environments
-- Game UI
-- Gameplay systems
-
+- Blender
+- Cascadeur
+- Reaper
+- LMMS
+  
 ### 🚂 Simulation Projects
 
 I'm interested in building realistic simulation experiences with systems such as:
@@ -118,7 +119,6 @@ I'm interested in building realistic simulation experiences with systems such as
 
 I also like experimenting with:
 - GDscript 
-- Raylib
 - Python
 - Tools and utilities
 - Game prototypes
@@ -128,10 +128,7 @@ I also like experimenting with:
 
 - [ ] Improve my programming skills
 - [ ] Build larger Godot projects
-- [ ] Learn more C#
-- [ ] Learn more graphics programming
-- [ ] Improve my 3D development skills
-- [ ] Release more projects
+- [ ] Improve my 3D skills
 - [ ] Contribute to open-source projects
 
 ---
@@ -157,7 +154,8 @@ I also like experimenting with:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neo-k-games)
-
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)]([YOUR_ITCH_LINK](https://neo-pixels.itch.io/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neo_indiedevloper)
 <!-- Add your other links below if you want -->
 
 <!--
@@ -174,7 +172,7 @@ I also like experimenting with:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile! :-{ )
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Neo-k-games&color=blue&style=for-the-badge)
 
