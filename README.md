@@ -124,26 +124,6 @@ I also like experimenting with:
 - Game prototypes
 
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neo-k-games=github-dark&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Neo-k-games&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
-
----
-
 # 🎯 Current Goals
 
 - [ ] Improve my programming skills
