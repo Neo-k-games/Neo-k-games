@@ -30,8 +30,6 @@ I enjoy building games, experimenting with code, and learning new technologies.
 ### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
@@ -118,9 +116,7 @@ I'm interested in building realistic simulation experiences with systems such as
 ### 🧪 Experimental Projects
 
 I also like experimenting with:
-
-- Graphics programming
-- OpenGL
+- GDscript 
 - Raylib
 - Python
 - Tools and utilities
