@@ -1,16 +1,10 @@
 <div align="center">
-
-# 👋 Hi, I'm Neo-k-games
-
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HI%20I%20AM%20MANAB%20:-}&animation=fadeIn)
 ### 🎮 Game Developer • 💻 Programmer • 🎨 Creative Developer
 
-I enjoy building games, experimenting with code, and learning new technologies.
+I enjoy building & designing games, experimenting code, and learning new tech.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neo-k-games)
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -161,6 +155,8 @@ I am like experimenting with:
 
 ###  Thanks for visiting my profile! :-{ )
 
-![Profile Views](https://komarev.com/ghpvc/?username=Neo-k-games&color=blue&style=for-the-badge)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Neo-k-games&label=VISITORS&countColor=%237C3AED&style=for-the-badge)
 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 </div>
