@@ -142,7 +142,7 @@ I am like experimenting with:
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)]([YOUR_ITCH_LINK](https://neo-pixels.itch.io/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neo_indiedevloper)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NEOindiepixels)
-[![Root](https://img.shields.io/badge/Root-7C3AED?style=for-the-badge&logoColor=white)]([https://www.rootapp.com/](https://rootapp.gg/ADGjytvMjwqsyd95YRdv6g))
+[![Root](https://img.shields.io/badge/Root-7C3AED?style=for-the-badge)](https://rootapp.gg/ADGjytvMjwqsyd95YRdv6g)
 <!-- Add your other links below if you want -->
 
 <!--
